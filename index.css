@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Montserrat:wght@100&family=Open+Sans:wght@300&family=Poppins:wght@100&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@250&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100&display=swap');
+* {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.phone {
+    width: 58%;
+    height: 90vh;
+
+}
+img {
+    height: 82vh;
+    width: 60% ;
+    margin: 22px 0px 25px 280px;
+    padding: auto;
+}
+
+.login {
+    width: 50%;
+}
+
+.one {
+    border: 0.3px solid gray;
+    width: 57%;
+    height: 54vh;
+    margin: 58px 0px 0px 0px;
+}
+
+.one h1 {
+    font-family: 'Grand Hotel', cursive;
+    font-size: 320%;
+    padding-top: 38px;
+}
+
+.one input[type=username]{
+    font-size: 13px;
+    padding: 13px;
+    width: 72%;
+    margin: 50px 0px 1px 40px;
+    background-color: rgb(249, 249, 249);
+    border: 0.5px solid gray;
+    border-radius: 3px;
+}
+
+.two2 input[type=password]{
+    font-size: 13px;
+    padding: 13px;
+    width: 72%;
+    margin: 8px 0px 10px 40px;
+    background-color: rgb(249, 249, 249);
+    border: 0.5px solid gray;
+    border-radius: 3px;
+}
+
+.blue_login button {
+    margin: 8px 0px 30px 40px;
+    padding: 9px 30px 9px 30px;
+    width: 80%;
+    border-radius: 10px;
+    background-color: rgb(79, 168, 240);
+    color: white;
+    font-size: medium;
+    border: none;
+}
+.two {
+    border: 0.3px solid gray;
+    width: 57%;
+    height: 10vh;
+    margin: 13px 0px 0px 0px;
+    
+}
+
+.two h2 {
+    font-family: 'Catamaran', sans-serif;
+    margin: 33px 0px 0px -70px;
+    font-size: medium;
+}
+
+.twosign h3 {
+    font-family: 'Heebo', sans-serif;
+    margin: -26px 0px 0px 170px;
+    font-size: medium;
+    color: rgb(0, 138, 245);
+}
+
+.or {
+    display: flex;
+}
+
+.line1 {
+    border: 1px solid rgb(215, 215, 215);
+    width: 30%;
+    margin: 1px 0px 0px 40px;
+}
+
+.line2 {
+    border: 1px solid rgb(215, 215, 215);
+    width: 30%;
+    margin: 1px 0px 0px 70px;
+}
+
+.text h2 {
+    margin-top: -10px;
+    font-size: medium;
+    color: rgb(130, 130, 130);
+   
+    
+}
+
+.text2 h2 {
+    color: rgb( 40, 66, 121);
+    margin: -58px 0px 0px 50px;
+}
+
+.text2 h4 {
+    color: rgb( 48, 80, 124);
+    margin: 25px 0px 0px 15px;
+    font-family: 'Roboto', sans-serif;
+    font-weight:  -10%;
+    font-size: 80%;
+}
+
+.facebook img {
+    height: 4.5vh;
+    width: 12%;
+    margin-left: 85px;
+
+}
+
+.app h3 {
+    font-family: 'Catamaran', sans-serif;
+    font-size: medium;
+    margin: 25px 0px 0px 135px;
+}
+
+.app img {
+    height: 6.5vh;
+    width: 48%;
+    margin: 0px 0px 0px 15px;
+}
+
+.footer p {
+    margin: 50px 0px 0px -535px;
+    font-size: 14.4px;
+    color: rgb(130, 130, 130);
+}
+
+.copy p {
+    font-size: 14.4px;
+    margin: 20px 0px 0px -200px;
+}
+.container {
+    display: flex;
+    
+}
