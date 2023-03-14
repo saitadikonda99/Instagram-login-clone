@@ -1,3 +1,3 @@
--Instagram-login-clone
+# Instagram-login-clone
 
 ![preview](preview.png)
